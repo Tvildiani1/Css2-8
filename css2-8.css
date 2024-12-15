@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#main {
+    background-color: #FFF;
+    margin: 80px 50px;
+    
+}
+#main_Container {
+    background-color:  #FFAEAF;
+    margin: auto;
+    max-width: 1604px;
+    height: 2540px;
+    width: 100%;
+    padding: 96px;
+    
+}
+#main_Boxes {
+    background: #FFF;
+    margin: auto;
+    max-width: 1412px;
+    width: 100%;
+    height: 2208px;
+    padding: 96px 66px;
+    
+}
+
+#headerp {
+    color: #ED00A6;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 96px;
+}
+
+h1 {
+    color: #181D27;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 24px;
+}
+
+#headerpara {
+    color: #535862;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 96px;
+
+}
+
+/* onee */
+
+#onebox {
+    width: 1280px;
+    margin: auto;
+
+}
+#onepic {
+    border-radius: 16px;
+    margin-bottom: 96px;
+}
+
+#twobox {
+    width: 1280px;
+    margin: auto;
+}
+#twopic {
+    border-radius: 16px;
+    margin-left: 680px;
+    margin-bottom: 96px;
+
+}
+
+/* three */
+
+#threebox {
+    width: 1280px;
+    margin: auto;
+}
+
+#threepic {
+    border-radius: 16px;
+ 
+}
